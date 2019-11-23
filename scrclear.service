@@ -1,0 +1,10 @@
+[Unit]
+Description=Clears script files
+
+[Service]
+Type=oneshot
+RemainAfterExit=no
+ExecStart=/bin/sh /home/thorr/MEAD/clear/clear.sh
+
+[Install]
+WantedBy=multi-user.target

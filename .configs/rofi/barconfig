@@ -1,0 +1,7 @@
+rofi.yoffset: -363
+rofi.xoffset: 700
+rofi.lines: 7
+rofi.sidebar:	true
+rofi.fixedlines: false
+rofi.width: 25
+rofi.theme: /home/thorr/MEAD/.configs/rofi/bar.rasi

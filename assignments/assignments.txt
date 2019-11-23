@@ -1,0 +1,360 @@
+10/09/2019 08:30 02:00 MT1011-TE1 Ampliació de Matemàtiques (Matemàtiques)
+10/09/2019 11:00 01:30 MT1012-TE1 Estadística i Optimització (Estadística)
+11/09/2019 08:30 01:00 MT1015-TE1 Introducció a Xarxes
+11/09/2019 09:30 01:30 MT1013-TE1 Estructures de Dades
+11/09/2019 11:30 01:30 MT1014-TE1 Sistemes Operatius
+12/09/2019 08:30 01:00 MT1015-TE1 Introducció a Xarxes
+12/09/2019 09:30 01:00 MT1012-PR1 Estadística i Optimització (Estadística)
+12/09/2019 11:00 01:30 MT1011-PR1 Ampliació de Matemàtiques (Matemàtiques)
+13/09/2019 08:30 01:30 MT1013-TE1 Estructures de Dades
+13/09/2019 10:00 01:00 MT1012-TE1 Estadística i Optimització (Estadística)
+13/09/2019 11:30 01:30 MT1014-TE1 Sistemes Operatius
+16/09/2019 09:30 02:00 MT1013-TE1 Estructures de Dades
+16/09/2019 12:00 02:30 MT1014-LA2 Sistemes Operatius
+17/09/2019 08:30 02:00 MT1011-TE1 Ampliació de Matemàtiques (Matemàtiques)
+17/09/2019 11:00 01:30 MT1012-TE1 Estadística i Optimització (Estadística)
+18/09/2019 08:30 01:00 MT1015-TE1 Introducció a Xarxes
+18/09/2019 09:30 01:30 MT1013-TE1 Estructures de Dades
+18/09/2019 11:30 01:30 MT1014-TE1 Sistemes Operatius
+19/09/2019 08:30 01:00 MT1015-TE1 Introducció a Xarxes
+19/09/2019 09:30 01:00 MT1012-PR1 Estadística i Optimització (Estadística)
+19/09/2019 11:00 01:30 MT1011-PR1 Ampliació de Matemàtiques (Matemàtiques)
+20/09/2019 08:30 01:30 MT1013-TE1 Estructures de Dades
+20/09/2019 10:00 01:00 MT1012-TE1 Estadística i Optimització (Estadística)
+20/09/2019 11:30 01:30 MT1014-TE1 Sistemes Operatius
+20/09/2019 13:00 02:00 MT1013-LA1 Estructures de Dades
+23/09/2019 12:00 02:30 MT1014-LA2 Sistemes Operatius
+24/09/2019 08:30 02:00 MT1011-TE1 Ampliació de Matemàtiques (Matemàtiques)
+24/09/2019 11:00 01:30 MT1012-TE1 Estadística i Optimització (Estadística)
+25/09/2019 08:30 01:00 MT1015-TE1 Introducció a Xarxes
+25/09/2019 09:30 01:30 MT1013-TE1 Estructures de Dades
+25/09/2019 11:30 01:30 MT1014-TE1 Sistemes Operatius
+26/09/2019 08:30 01:00 MT1015-TE1 Introducció a Xarxes
+26/09/2019 09:30 01:00 MT1012-PR1 Estadística i Optimització (Estadística)
+26/09/2019 11:00 01:30 MT1011-PR1 Ampliació de Matemàtiques (Matemàtiques)
+26/09/2019 12:30 02:30 MT1015-LA1 Introducció a Xarxes
+01/10/2019 08:30 02:00 MT1011-TE1 Ampliació de Matemàtiques (Matemàtiques)
+01/10/2019 11:00 01:30 MT1012-TE1 Estadística i Optimització (Estadística)
+01/10/2019 12:30 02:30 MT1012-LA1 Estadística i Optimització (Estadística)
+02/10/2019 08:30 01:00 MT1015-TE1 Introducció a Xarxes
+02/10/2019 09:30 01:30 MT1013-TE1 Estructures de Dades
+02/10/2019 11:30 01:30 MT1014-TE1 Sistemes Operatius
+03/10/2019 08:30 01:00 MT1015-TE1 Introducció a Xarxes
+03/10/2019 09:30 01:00 MT1012-PR1 Estadística i Optimització (Estadística)
+03/10/2019 11:00 01:30 MT1011-PR1 Ampliació de Matemàtiques (Matemàtiques)
+03/10/2019 12:30 02:30 MT1015-LA1 Introducció a Xarxes
+04/10/2019 08:30 01:30 MT1013-TE1 Estructures de Dades
+04/10/2019 10:00 01:00 MT1012-TE1 Estadística i Optimització (Estadística)
+04/10/2019 11:30 01:30 MT1014-TE1 Sistemes Operatius
+04/10/2019 13:00 02:00 MT1013-LA1 Estructures de Dades
+07/10/2019 12:00 02:30 MT1014-LA2 Sistemes Operatius
+08/10/2019 08:30 02:00 MT1011-TE1 Ampliació de Matemàtiques (Matemàtiques)
+08/10/2019 11:00 01:30 MT1012-TE1 Estadística i Optimització (Estadística)
+08/10/2019 12:30 02:30 MT1011-LA1 Ampliació de Matemàtiques (Matemàtiques)
+10/10/2019 09:30 01:00 MT1012-PR1 Estadística i Optimització (Estadística)
+10/10/2019 11:00 01:30 MT1011-PR1 Ampliació de Matemàtiques (Matemàtiques)
+11/10/2019 08:30 01:30 MT1013-TE1 Estructures de Dades
+11/10/2019 10:00 01:00 MT1012-TE1 Estadística i Optimització (Estadística)
+11/10/2019 11:30 01:30 MT1014-TE1 Sistemes Operatius
+11/10/2019 13:00 02:00 MT1013-LA1 Estructures de Dades
+14/10/2019 12:00 02:30 MT1014-LA2 Sistemes Operatius
+15/10/2019 08:30 02:00 MT1011-TE1 Ampliació de Matemàtiques (Matemàtiques)
+15/10/2019 11:00 01:30 MT1012-TE1 Estadística i Optimització (Estadística)
+15/10/2019 12:30 02:30 MT1012-LA1 Estadística i Optimització (Estadística)
+16/10/2019 08:30 01:00 MT1015-TE1 Introducció a Xarxes
+16/10/2019 09:30 01:30 MT1013-TE1 Estructures de Dades
+16/10/2019 11:30 01:30 MT1014-TE1 Sistemes Operatius
+17/10/2019 08:30 01:00 MT1015-TE1 Introducció a Xarxes
+17/10/2019 09:30 01:00 MT1012-PR1 Estadística i Optimització (Estadística)
+17/10/2019 11:00 01:30 MT1011-PR1 Ampliació de Matemàtiques (Matemàtiques)
+17/10/2019 12:30 02:30 MT1015-LA1 Introducció a Xarxes
+18/10/2019 08:30 01:30 MT1013-TE1 Estructures de Dades
+18/10/2019 10:00 01:00 MT1012-TE1 Estadística i Optimització (Estadística)
+18/10/2019 11:30 01:30 MT1014-TE1 Sistemes Operatius
+18/10/2019 13:00 02:00 MT1013-LA1 Estructures de Dades
+22/10/2019 08:30 02:00 MT1011-TE1 Ampliació de Matemàtiques (Matemàtiques)
+22/10/2019 11:00 01:30 MT1012-TE1 Estadística i Optimització (Estadística)
+22/10/2019 12:30 02:30 MT1011-LA1 Ampliació de Matemàtiques (Matemàtiques)
+23/10/2019 08:30 01:00 MT1015-TE1 Introducció a Xarxes
+23/10/2019 11:30 01:30 MT1014-TE1 Sistemes Operatius
+24/10/2019 08:30 01:00 MT1015-TE1 Introducció a Xarxes
+24/10/2019 09:30 01:00 MT1012-PR1 Estadística i Optimització (Estadística)
+24/10/2019 11:00 01:30 MT1011-PR1 Ampliació de Matemàtiques (Matemàtiques)
+24/10/2019 12:30 02:30 MT1015-LA1 Introducció a Xarxes
+25/10/2019 10:00 01:00 MT1012-TE1 Estadística i Optimització (Estadística)
+25/10/2019 11:30 01:30 MT1014-TE1 Sistemes Operatius
+25/10/2019 13:00 02:00 MT1013-LA1 Estructures de Dades
+28/10/2019 12:00 02:30 MT1014-LA2 Sistemes Operatius
+29/10/2019 08:30 02:00 MT1011-TE1 Ampliació de Matemàtiques (Matemàtiques)
+29/10/2019 11:00 01:30 MT1012-TE1 Estadística i Optimització (Estadística)
+29/10/2019 12:30 02:30 MT1012-LA1 Estadística i Optimització (Estadística)
+30/10/2019 08:30 01:00 MT1015-TE1 Introducció a Xarxes
+30/10/2019 09:30 01:30 MT1013-TE1 Estructures de Dades
+30/10/2019 11:30 01:30 MT1014-TE1 Sistemes Operatius
+31/10/2019 08:30 01:00 MT1015-TE1 Introducció a Xarxes
+31/10/2019 09:30 01:00 MT1012-PR1 Estadística i Optimització (Estadística)
+31/10/2019 11:00 01:30 MT1011-PR1 Ampliació de Matemàtiques (Matemàtiques)
+31/10/2019 12:30 02:30 MT1015-LA1 Introducció a Xarxes
+04/11/2019 12:00 02:30 MT1014-LA2 Sistemes Operatius
+05/11/2019 08:30 02:00 MT1011-TE1 Ampliació de Matemàtiques (Matemàtiques)
+05/11/2019 11:00 01:30 MT1012-TE1 Estadística i Optimització (Estadística)
+05/11/2019 12:30 02:30 MT1011-LA1 Ampliació de Matemàtiques (Matemàtiques)
+06/11/2019 08:30 01:00 MT1015-TE1 Introducció a Xarxes
+06/11/2019 09:30 01:30 MT1013-TE1 Estructures de Dades
+06/11/2019 11:30 01:30 MT1014-TE1 Sistemes Operatius
+07/11/2019 08:30 01:00 MT1015-TE1 Introducció a Xarxes
+07/11/2019 09:30 01:00 MT1012-PR1 Estadística i Optimització (Estadística)
+07/11/2019 11:00 01:30 MT1011-PR1 Ampliació de Matemàtiques (Matemàtiques)
+07/11/2019 12:30 02:30 MT1015-LA1 Introducció a Xarxes
+08/11/2019 08:30 01:30 MT1013-TE1 Estructures de Dades
+08/11/2019 10:00 01:00 MT1012-TE1 Estadística i Optimització (Estadística)
+08/11/2019 11:30 01:30 MT1014-TE1 Sistemes Operatius
+08/11/2019 13:00 02:00 MT1013-LA1 Estructures de Dades
+12/11/2019 11:00 01:30 MT1012-TE1 Estadística i Optimització (Estadística)
+12/11/2019 12:30 02:30 MT1012-LA1 Estadística i Optimització (Estadística)
+13/11/2019 08:30 01:00 MT1015-TE1 Introducció a Xarxes
+13/11/2019 09:30 01:30 MT1013-TE1 Estructures de Dades
+13/11/2019 11:30 01:30 MT1014-TE1 Sistemes Operatius
+14/11/2019 08:30 01:00 MT1015-TE1 Introducció a Xarxes
+14/11/2019 09:30 01:00 MT1012-PR1 Estadística i Optimització (Estadística)
+14/11/2019 11:00 01:30 MT1011-PR1 Ampliació de Matemàtiques (Matemàtiques)
+14/11/2019 12:30 02:30 MT1015-LA1 Introducció a Xarxes
+15/11/2019 08:30 01:30 MT1013-TE1 Estructures de Dades
+15/11/2019 10:00 01:00 MT1012-TE1 Estadística i Optimització (Estadística)
+15/11/2019 11:30 01:30 MT1014-TE1 Sistemes Operatius
+15/11/2019 13:00 02:00 MT1013-LA1 Estructures de Dades
+18/11/2019 12:00 02:30 MT1014-LA2 Sistemes Operatius
+19/11/2019 08:30 02:00 MT1011-TE1 Ampliació de Matemàtiques (Matemàtiques)
+19/11/2019 11:00 01:30 MT1012-TE1 Estadística i Optimització (Estadística)
+19/11/2019 12:30 02:30 MT1011-LA1 Ampliació de Matemàtiques (Matemàtiques)
+20/11/2019 08:30 01:00 MT1015-TE1 Introducció a Xarxes
+20/11/2019 09:30 01:30 MT1013-TE1 Estructures de Dades
+20/11/2019 11:30 01:30 MT1014-TE1 Sistemes Operatius
+21/11/2019 08:30 01:00 MT1015-TE1 Introducció a Xarxes
+21/11/2019 09:30 01:00 MT1012-PR1 Estadística i Optimització (Estadística)
+21/11/2019 11:00 01:30 MT1011-PR1 Ampliació de Matemàtiques (Matemàtiques)
+21/11/2019 12:30 02:30 MT1015-LA1 Introducció a Xarxes
+22/11/2019 08:30 01:30 MT1013-TE1 Estructures de Dades
+22/11/2019 10:00 01:00 MT1012-TE1 Estadística i Optimització (Estadística)
+22/11/2019 11:30 01:30 MT1014-TE1 Sistemes Operatius
+22/11/2019 13:00 02:00 MT1013-LA1 Estructures de Dades
+25/11/2019 12:00 02:30 MT1014-LA2 Sistemes Operatius
+26/11/2019 08:30 02:00 MT1011-TE1 Ampliació de Matemàtiques (Matemàtiques)
+26/11/2019 11:00 01:30 MT1012-TE1 Estadística i Optimització (Estadística)
+26/11/2019 12:30 02:30 MT1012-LA1 Estadística i Optimització (Estadística)
+27/11/2019 08:30 01:00 MT1015-TE1 Introducció a Xarxes
+27/11/2019 09:30 01:30 MT1013-TE1 Estructures de Dades
+27/11/2019 11:30 01:30 MT1014-TE1 Sistemes Operatius
+28/11/2019 08:30 01:00 MT1015-TE1 Introducció a Xarxes
+28/11/2019 09:30 01:00 MT1012-PR1 Estadística i Optimització (Estadística)
+28/11/2019 11:00 01:30 MT1011-PR1 Ampliació de Matemàtiques (Matemàtiques)
+28/11/2019 12:30 02:30 MT1015-LA1 Introducció a Xarxes
+29/11/2019 08:30 01:30 MT1013-TE1 Estructures de Dades	
+29/11/2019 10:00 01:00 MT1012-TE1 Estadística i Optimització (Estadística)	
+29/11/2019 11:30 01:30 MT1014-TE1 Sistemes Operatius	
+29/11/2019 13:00 02:00 MT1013-LA1 Estructures de Dades	
+02/12/2019 12:00 02:30 MT1014-LA2 Sistemes Operatius	
+03/12/2019 08:30 02:00 MT1011-TE1 Ampliació de Matemàtiques (Matemàtiques)	
+03/12/2019 11:00 01:30 MT1012-TE1 Estadística i Optimització (Estadística)	
+03/12/2019 12:30 02:30 MT1011-LA1 Ampliació de Matemàtiques (Matemàtiques)	
+04/12/2019 09:30 01:30 MT1013-TE1 Estructures de Dades	
+04/12/2019 11:30 01:30 MT1014-TE1 Sistemes Operatius	
+05/12/2019 09:30 01:00 MT1012-PR1 Estadística i Optimització (Estadística)	
+05/12/2019 11:00 01:30 MT1011-PR1 Ampliació de Matemàtiques (Matemàtiques)	
+05/12/2019 12:30 02:30 MT1015-LA1 Introducció a Xarxes	
+09/12/2019 12:00 02:30 MT1014-LA2 Sistemes Operatius	
+10/12/2019 08:30 02:00 MT1011-TE1 Ampliació de Matemàtiques (Matemàtiques)	
+10/12/2019 12:30 02:30 MT1012-LA1 Estadística i Optimització (Estadística)	
+11/12/2019 11:30 01:30 MT1014-TE1 Sistemes Operatius	
+12/12/2019 12:30 02:30 MT1015-LA1 Introducció a Xarxes	
+13/12/2019 13:00 02:00 MT1013-LA1 Estructures de Dades
+20/12/2019 13:00 02:00 MT1013-LA1 Estructures de Dades
+23/01/2020 09:00 02:00 MT1009-TE1 Organització i Gestió d'Empreses (Empresa)
+23/01/2020 11:30 02:00 MT1023-TE1 Fonaments del Càlcul Integral
+24/01/2020 09:00 02:00 MT1021-PR1 Ampliació d'Estadística i Investigació Operativa
+24/01/2020 11:31 00:59 MT1018-PR1 Fonaments de Geometria
+24/01/2020 12:30 00:59 MT1018-SE1 Fonaments de Geometria
+27/01/2020 11:30 01:00 MT1018-TE1 Fonaments de Geometria
+27/01/2020 12:30 02:00 MT1023-TE1 Fonaments del Càlcul Integral
+28/01/2020 09:00 02:00 MT1009-PR5 Organització i Gestió d'Empreses (Empresa)
+28/01/2020 11:30 01:00 MT1021-SE1 Ampliació d'Estadística i Investigació Operativa
+28/01/2020 12:30 02:00 MT1019-LA1 Administració i Configuració de Xarxes
+29/01/2020 09:00 01:00 MT1018-TE1 Fonaments de Geometria
+29/01/2020 10:00 01:30 MT1021-TE1 Ampliació d'Estadística i Investigació Operativa
+29/01/2020 12:00 01:30 MT1019-TE1 Administració i Configuració de Xarxes
+30/01/2020 09:00 02:00 MT1009-TE1 Organització i Gestió d'Empreses (Empresa)
+30/01/2020 11:30 02:00 MT1023-PR1 Fonaments del Càlcul Integral
+31/01/2020 09:00 02:00 MT1021-LA1 Ampliació d'Estadística i Investigació Operativa
+31/01/2020 11:31 00:59 MT1018-PR1 Fonaments de Geometria
+31/01/2020 12:30 00:59 MT1018-SE1 Fonaments de Geometria
+31/01/2020 13:30 01:00 MT1019-PR1 Administració i Configuració de Xarxes
+03/02/2020 11:30 01:00 MT1018-TE1 Fonaments de Geometria
+03/02/2020 12:30 02:00 MT1023-TE1 Fonaments del Càlcul Integral
+04/02/2020 09:00 02:00 MT1009-PR5 Organització i Gestió d'Empreses (Empresa)
+04/02/2020 11:30 01:00 MT1021-SE1 Ampliació d'Estadística i Investigació Operativa
+04/02/2020 12:30 02:00 MT1019-LA1 Administració i Configuració de Xarxes
+05/02/2020 09:00 01:00 MT1018-TE1 Fonaments de Geometria
+05/02/2020 10:00 01:30 MT1021-TE1 Ampliació d'Estadística i Investigació Operativa
+05/02/2020 12:00 01:30 MT1019-TE1 Administració i Configuració de Xarxes
+06/02/2020 09:00 02:00 MT1009-TE1 Organització i Gestió d'Empreses (Empresa)
+06/02/2020 11:30 02:00 MT1023-PR1 Fonaments del Càlcul Integral
+07/02/2020 09:00 02:00 MT1021-PR1 Ampliació d'Estadística i Investigació Operativa
+07/02/2020 11:31 00:59 MT1018-PR1 Fonaments de Geometria
+07/02/2020 12:30 00:59 MT1018-SE1 Fonaments de Geometria
+07/02/2020 13:30 01:00 MT1019-PR1 Administració i Configuració de Xarxes
+10/02/2020 11:30 01:00 MT1018-TE1 Fonaments de Geometria
+10/02/2020 12:30 02:00 MT1023-TE1 Fonaments del Càlcul Integral
+11/02/2020 09:00 02:00 MT1009-PR5 Organització i Gestió d'Empreses (Empresa)
+11/02/2020 11:30 01:00 MT1021-SE1 Ampliació d'Estadística i Investigació Operativa
+11/02/2020 12:30 02:00 MT1019-LA1 Administració i Configuració de Xarxes
+12/02/2020 09:00 01:00 MT1018-TE1 Fonaments de Geometria
+12/02/2020 10:00 01:30 MT1021-TE1 Ampliació d'Estadística i Investigació Operativa
+12/02/2020 12:00 01:30 MT1019-TE1 Administració i Configuració de Xarxes
+13/02/2020 09:00 02:00 MT1009-TE1 Organització i Gestió d'Empreses (Empresa)
+13/02/2020 11:30 02:00 MT1023-PR1 Fonaments del Càlcul Integral
+14/02/2020 09:00 02:00 MT1021-LA1 Ampliació d'Estadística i Investigació Operativa
+14/02/2020 11:31 00:59 MT1018-PR1 Fonaments de Geometria
+14/02/2020 12:30 00:59 MT1018-SE1 Fonaments de Geometria
+14/02/2020 13:30 01:00 MT1019-PR1 Administració i Configuració de Xarxes
+17/02/2020 11:30 01:00 MT1018-TE1 Fonaments de Geometria
+17/02/2020 12:30 02:00 MT1023-TE1 Fonaments del Càlcul Integral
+18/02/2020 09:00 02:00 MT1009-PR5 Organització i Gestió d'Empreses (Empresa)
+18/02/2020 11:30 01:00 MT1021-SE1 Ampliació d'Estadística i Investigació Operativa
+18/02/2020 12:30 02:00 MT1019-LA1 Administració i Configuració de Xarxes
+19/02/2020 09:00 01:00 MT1018-TE1 Fonaments de Geometria
+19/02/2020 10:00 01:30 MT1021-TE1 Ampliació d'Estadística i Investigació Operativa
+19/02/2020 12:00 01:30 MT1019-TE1 Administració i Configuració de Xarxes
+20/02/2020 09:00 02:00 MT1009-TE1 Organització i Gestió d'Empreses (Empresa)
+20/02/2020 11:30 02:00 MT1023-SE1 Fonaments del Càlcul Integral
+21/02/2020 09:00 02:00 MT1021-PR1 Ampliació d'Estadística i Investigació Operativa
+21/02/2020 11:31 00:59 MT1018-PR1 Fonaments de Geometria
+21/02/2020 12:30 00:59 MT1018-SE1 Fonaments de Geometria
+21/02/2020 13:30 01:00 MT1019-PR1 Administració i Configuració de Xarxes
+24/02/2020 11:30 01:00 MT1018-TE1 Fonaments de Geometria
+24/02/2020 12:30 02:00 MT1023-TE1 Fonaments del Càlcul Integral
+25/02/2020 09:00 02:00 MT1009-PR5 Organització i Gestió d'Empreses (Empresa)
+25/02/2020 11:30 01:00 MT1021-SE1 Ampliació d'Estadística i Investigació Operativa
+26/02/2020 09:00 01:00 MT1018-TE1 Fonaments de Geometria
+26/02/2020 10:00 01:30 MT1021-TE1 Ampliació d'Estadística i Investigació Operativa
+27/02/2020 09:00 02:00 MT1009-TE1 Organització i Gestió d'Empreses (Empresa)
+27/02/2020 11:30 02:00 MT1023-PR1 Fonaments del Càlcul Integral
+02/03/2020 11:30 01:00 MT1018-TE1 Fonaments de Geometria
+02/03/2020 12:30 02:00 MT1023-TE1 Fonaments del Càlcul Integral
+03/03/2020 09:00 02:00 MT1009-PR5 Organització i Gestió d'Empreses (Empresa)
+03/03/2020 11:30 01:00 MT1021-SE1 Ampliació d'Estadística i Investigació Operativa
+03/03/2020 12:30 02:00 MT1019-LA1 Administració i Configuració de Xarxes
+04/03/2020 09:00 01:00 MT1018-TE1 Fonaments de Geometria
+04/03/2020 10:00 01:30 MT1021-TE1 Ampliació d'Estadística i Investigació Operativa
+04/03/2020 12:00 01:30 MT1019-TE1 Administració i Configuració de Xarxes
+05/03/2020 09:00 02:00 MT1009-TE1 Organització i Gestió d'Empreses (Empresa)
+05/03/2020 11:30 02:00 MT1023-TE1 Fonaments del Càlcul Integral
+06/03/2020 09:00 02:00 MT1021-LA1 Ampliació d'Estadística i Investigació Operativa
+06/03/2020 11:31 00:59 MT1018-PR1 Fonaments de Geometria
+06/03/2020 12:30 00:59 MT1018-SE1 Fonaments de Geometria
+06/03/2020 13:30 01:00 MT1019-PR1 Administració i Configuració de Xarxes
+09/03/2020 11:30 01:00 MT1018-TE1 Fonaments de Geometria
+09/03/2020 12:30 02:00 MT1023-TE1 Fonaments del Càlcul Integral
+10/03/2020 09:00 02:00 MT1009-PR5 Organització i Gestió d'Empreses (Empresa)
+10/03/2020 11:30 01:00 MT1021-SE1 Ampliació d'Estadística i Investigació Operativa
+10/03/2020 12:30 02:00 MT1019-LA1 Administració i Configuració de Xarxes
+11/03/2020 09:00 01:00 MT1018-TE1 Fonaments de Geometria
+11/03/2020 10:00 01:30 MT1021-TE1 Ampliació d'Estadística i Investigació Operativa
+11/03/2020 12:00 01:30 MT1019-TE1 Administració i Configuració de Xarxes
+12/03/2020 09:00 02:00 MT1009-TE1 Organització i Gestió d'Empreses (Empresa)
+12/03/2020 11:30 02:00 MT1023-TE1 Fonaments del Càlcul Integral
+13/03/2020 09:00 02:00 MT1021-PR1 Ampliació d'Estadística i Investigació Operativa
+13/03/2020 11:31 00:59 MT1018-PR1 Fonaments de Geometria
+13/03/2020 12:30 00:59 MT1018-SE1 Fonaments de Geometria
+13/03/2020 13:30 01:00 MT1019-PR1 Administració i Configuració de Xarxes
+23/03/2020 11:30 01:00 MT1018-TE1 Fonaments de Geometria
+23/03/2020 12:30 02:00 MT1023-TE1 Fonaments del Càlcul Integral
+24/03/2020 09:00 02:00 MT1009-PR5 Organització i Gestió d'Empreses (Empresa)
+24/03/2020 11:30 01:00 MT1021-SE1 Ampliació d'Estadística i Investigació Operativa
+24/03/2020 12:30 02:00 MT1019-LA1 Administració i Configuració de Xarxes
+25/03/2020 09:00 01:00 MT1018-TE1 Fonaments de Geometria
+25/03/2020 10:00 01:30 MT1021-TE1 Ampliació d'Estadística i Investigació Operativa
+25/03/2020 12:00 01:30 MT1019-TE1 Administració i Configuració de Xarxes
+26/03/2020 09:00 02:00 MT1009-TE1 Organització i Gestió d'Empreses (Empresa)
+26/03/2020 11:30 02:00 MT1023-TE1 Fonaments del Càlcul Integral
+27/03/2020 09:00 02:00 MT1021-LA1 Ampliació d'Estadística i Investigació Operativa
+27/03/2020 11:31 00:59 MT1018-PR1 Fonaments de Geometria
+27/03/2020 12:30 00:59 MT1018-SE1 Fonaments de Geometria
+27/03/2020 13:30 01:00 MT1019-PR1 Administració i Configuració de Xarxes
+30/03/2020 11:30 01:00 MT1018-TE1 Fonaments de Geometria
+30/03/2020 12:30 02:00 MT1023-TE1 Fonaments del Càlcul Integral
+31/03/2020 09:00 02:00 MT1009-PR5 Organització i Gestió d'Empreses (Empresa)
+31/03/2020 11:30 01:00 MT1021-SE1 Ampliació d'Estadística i Investigació Operativa
+31/03/2020 12:30 02:00 MT1019-LA1 Administració i Configuració de Xarxes
+01/04/2020 09:00 01:00 MT1018-TE1 Fonaments de Geometria
+01/04/2020 10:00 01:30 MT1021-TE1 Ampliació d'Estadística i Investigació Operativa
+01/04/2020 12:00 01:30 MT1019-TE1 Administració i Configuració de Xarxes
+02/04/2020 09:00 02:00 MT1009-TE1 Organització i Gestió d'Empreses (Empresa)
+02/04/2020 11:30 02:00 MT1023-SE1 Fonaments del Càlcul Integral
+03/04/2020 09:00 02:00 MT1021-PR1 Ampliació d'Estadística i Investigació Operativa
+03/04/2020 11:31 00:59 MT1018-PR1 Fonaments de Geometria
+03/04/2020 12:30 00:59 MT1018-SE1 Fonaments de Geometria
+03/04/2020 13:30 01:00 MT1019-PR1 Administració i Configuració de Xarxes
+06/04/2020 11:30 01:00 MT1018-TE1 Fonaments de Geometria
+06/04/2020 12:30 02:00 MT1023-TE1 Fonaments del Càlcul Integral
+07/04/2020 09:00 02:00 MT1009-PR5 Organització i Gestió d'Empreses (Empresa)
+07/04/2020 11:30 01:00 MT1021-SE1 Ampliació d'Estadística i Investigació Operativa
+08/04/2020 09:00 01:00 MT1018-TE1 Fonaments de Geometria
+08/04/2020 10:00 01:30 MT1021-TE1 Ampliació d'Estadística i Investigació Operativa
+08/04/2020 12:00 01:30 MT1019-TE1 Administració i Configuració de Xarxes
+09/04/2020 09:00 02:00 MT1009-TE1 Organització i Gestió d'Empreses (Empresa)
+09/04/2020 11:30 02:00 MT1023-PR1 Fonaments del Càlcul Integral
+20/04/2020 11:30 01:00 MT1018-TE1 Fonaments de Geometria
+20/04/2020 12:30 01:30 MT1023-PR1 Fonaments del Càlcul Integral
+21/04/2020 09:00 02:00 MT1009-PR5 Organització i Gestió d'Empreses (Empresa)
+21/04/2020 12:30 02:00 MT1019-LA1 Administració i Configuració de Xarxes
+22/04/2020 09:00 01:00 MT1018-TE1 Fonaments de Geometria
+22/04/2020 10:00 01:30 MT1021-TE1 Ampliació d'Estadística i Investigació Operativa
+22/04/2020 12:00 01:30 MT1019-TE1 Administració i Configuració de Xarxes
+23/04/2020 09:00 02:00 MT1009-TE1 Organització i Gestió d'Empreses (Empresa)
+23/04/2020 11:30 02:00 MT1023-TE1 Fonaments del Càlcul Integral
+24/04/2020 09:00 02:00 MT1021-LA1 Ampliació d'Estadística i Investigació Operativa
+24/04/2020 11:31 00:59 MT1018-PR1 Fonaments de Geometria
+24/04/2020 12:30 00:59 MT1018-SE1 Fonaments de Geometria
+24/04/2020 13:30 01:00 MT1019-PR1 Administració i Configuració de Xarxes
+27/04/2020 11:30 01:00 MT1018-TE1 Fonaments de Geometria
+27/04/2020 12:30 01:30 MT1023-PR1 Fonaments del Càlcul Integral
+28/04/2020 09:00 02:00 MT1009-PR5 Organització i Gestió d'Empreses (Empresa)
+29/04/2020 09:00 01:00 MT1018-TE1 Fonaments de Geometria
+29/04/2020 10:00 01:30 MT1021-TE1 Ampliació d'Estadística i Investigació Operativa
+29/04/2020 12:00 01:30 MT1019-TE1 Administració i Configuració de Xarxes
+30/04/2020 09:00 02:00 MT1009-TE1 Organització i Gestió d'Empreses (Empresa)
+30/04/2020 11:30 02:00 MT1023-SE1 Fonaments del Càlcul Integral
+04/05/2020 11:30 01:00 MT1018-TE1 Fonaments de Geometria
+04/05/2020 12:30 01:30 MT1023-SE1 Fonaments del Càlcul Integral
+05/05/2020 09:00 02:00 MT1009-PR5 Organització i Gestió d'Empreses (Empresa)
+05/05/2020 12:30 02:00 MT1019-LA1 Administració i Configuració de Xarxes
+06/05/2020 09:00 01:00 MT1018-TE1 Fonaments de Geometria
+06/05/2020 10:00 01:30 MT1021-TE1 Ampliació d'Estadística i Investigació Operativa
+06/05/2020 12:00 01:30 MT1019-TE1 Administració i Configuració de Xarxes
+07/05/2020 09:00 02:00 MT1009-TE1 Organització i Gestió d'Empreses (Empresa)
+07/05/2020 11:30 02:00 MT1023-PR1 Fonaments del Càlcul Integral
+08/05/2020 09:00 02:00 MT1021-LA1 Ampliació d'Estadística i Investigació Operativa
+08/05/2020 11:31 00:59 MT1018-PR1 Fonaments de Geometria
+08/05/2020 12:30 00:59 MT1018-SE1 Fonaments de Geometria
+08/05/2020 13:30 01:00 MT1019-PR1 Administració i Configuració de Xarxes
+11/05/2020 11:30 01:00 MT1018-TE1 Fonaments de Geometria
+11/05/2020 12:30 01:30 MT1023-SE1 Fonaments del Càlcul Integral
+12/05/2020 09:00 02:00 MT1009-PR5 Organització i Gestió d'Empreses (Empresa)
+12/05/2020 12:30 02:00 MT1019-LA1 Administració i Configuració de Xarxes
+13/05/2020 09:00 01:00 MT1018-TE1 Fonaments de Geometria
+13/05/2020 12:00 01:00 MT1019-PR1 Administració i Configuració de Xarxes
+14/05/2020 09:00 02:00 MT1009-TE1 Organització i Gestió d'Empreses (Empresa)
+14/05/2020 11:30 02:00 MT1023-TE1 Fonaments del Càlcul Integral
+15/05/2020 09:00 02:00 MT1021-LA1 Ampliació d'Estadística i Investigació Operativa
+15/05/2020 11:31 00:59 MT1018-PR1 Fonaments de Geometria
+15/05/2020 12:30 00:59 MT1018-SE1 Fonaments de Geometria
+15/05/2020 13:30 01:00 MT1019-PR1 Administració i Configuració de Xarxes
+18/05/2020 11:30 01:00 MT1018-TE1 Fonaments de Geometria
+19/05/2020 09:00 02:00 MT1009-PR5 Organització i Gestió d'Empreses (Empresa)
+19/05/2020 12:30 02:00 MT1019-LA1 Administració i Configuració de Xarxes
+20/05/2020 09:00 01:00 MT1018-TE1 Fonaments de Geometria
+20/05/2020 12:00 01:00 MT1019-PR1 Administració i Configuració de Xarxes
+21/05/2020 09:00 02:00 MT1009-TE1 Organització i Gestió d'Empreses (Empresa)
+22/05/2020 11:31 00:59 MT1018-PR1 Fonaments de Geometria
+22/05/2020 12:30 00:59 MT1018-SE1 Fonaments de Geometria
+22/05/2020 13:30 01:00 MT1019-PR1 Administració i Configuració de Xarxes

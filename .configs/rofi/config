@@ -1,0 +1,6 @@
+rofi.yoffset: 13
+! rofi.lines:
+rofi.sidebar:	true
+rofi.fixedlines: true
+rofi.width: 98
+rofi.theme: /home/thorr/MEAD/.configs/rofi/MorktHrad.rasi

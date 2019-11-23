@@ -1,0 +1,243 @@
+set $mod Mod4
+#Initializing compton
+exec_always --no-startup-id "killall picom; picom --experimental-backends"
+
+#Notification daemon setting (Uncomment desired)
+exec_always --no-startup-id kill $(pidof dunst) ; dunst
+#exec_always --no-startup-id kill $(pidof notify-osd) ; /usr/lib/notify-osd/notify-osd
+#exec_always --no-startup-id kill $(pidof notification-daemon) ; /usr/lib/notification-daemon-1.0/notification-daemon
+
+#Set Keyboard repetition rate
+exec_always --no-startup-id xset r rate 300 50
+
+# Font for window titles. Will also be used by the bar unless a different font
+font pango:SFNS Display Regular 12
+
+# This font is widely installed, provides lots of unicode glyphs, right-to-left
+# text rendering and scalability on retina/hidpi displays (thanks to pango).
+#font pango:DejaVu Sans Mono 8
+
+# Use Mouse+$mod to drag floating windows to their wanted position
+floating_modifier $mod
+
+# start a terminal
+bindsym $mod+Return exec kitty
+bindsym $mod+Control+Return exec konsole
+
+# kill focused window
+bindsym $mod+Shift+q kill
+
+# start rofi
+bindsym $mod+d exec --no-startup-id rofi -show drun
+
+# change focused window
+bindsym $mod+Left focus left
+bindsym $mod+Down focus down
+bindsym $mod+Up focus up
+bindsym $mod+Right focus right
+
+# alternatively, you can use the cursor keys:
+bindsym $mod+Shift+Left move left
+bindsym $mod+Shift+Down move down
+bindsym $mod+Shift+Up move up
+bindsym $mod+Shift+Right move right
+
+#Toggle split orientation
+bindsym $mod+v split toggle
+
+# enter fullscreen mode for the focused container
+bindsym F11 fullscreen toggle
+
+# change container layout (stacked, tabbed, toggle split)
+bindsym $mod+w layout toggle
+
+# Define names for default workspaces for which we configure key bindings later on.
+# We use variables to avoid repeating the names in multiple places.
+set $ws1 "1. "
+set $ws2 "2. "
+set $ws3 "3. "
+set $ws4 "4. "
+set $ws5 "5. "
+set $ws6 "6. "
+set $ws7 "7. "
+set $ws8 "8. "
+set $ws9 "9. "
+set $ws10 "10. "
+set $ws11 "11. "
+
+# switch to workspace
+bindsym $mod+1 workspace $ws1
+bindsym $mod+2 workspace $ws2
+bindsym $mod+3 workspace $ws3
+bindsym $mod+4 workspace $ws4
+bindsym $mod+5 workspace $ws5
+bindsym $mod+6 workspace $ws6
+bindsym $mod+7 workspace $ws7
+bindsym $mod+8 workspace $ws8
+bindsym $mod+9 workspace $ws9
+bindsym $mod+0 workspace $ws10
+bindsym $mod+XF86Launch1 workspace $ws11
+
+# move focused container to workspace
+bindsym $mod+Shift+1 move container to workspace $ws1
+bindsym $mod+Shift+2 move container to workspace $ws2
+bindsym $mod+Shift+3 move container to workspace $ws3
+bindsym $mod+Shift+4 move container to workspace $ws4
+bindsym $mod+Shift+5 move container to workspace $ws5
+bindsym $mod+Shift+6 move container to workspace $ws6
+bindsym $mod+Shift+7 move container to workspace $ws7
+bindsym $mod+Shift+8 move container to workspace $ws8
+bindsym $mod+Shift+9 move container to workspace $ws9
+bindsym $mod+Shift+0 move container to workspace $ws10
+bindsym $mod+Shift+XF86Launch1 move container to workspace $ws11
+
+#Move workspace to monitor
+bindsym $mod+Mod1+Right move workspace to output right
+bindsym $mod+Mod1+Up move workspace to output up
+bindsym $mod+Mod1+Down move workspace to output down
+bindsym $mod+Mod1+Left move workspace to output left
+
+#Setting up workspaces
+exec --no-startup-id i3-msg 'workspace $ws1; exec kitty; workspace $ws2; exec firefox; workspace $ws10; exec kitty; workspace $ws1; exec rambox'
+
+assign [class="Rambox"] $ws9
+
+# reload the configuration file
+bindsym $mod+Shift+c reload
+
+# restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
+bindsym $mod+Shift+r restart
+
+# Exit i3 prompt (Closes X session)
+bindsym $mod+Shift+e exec $MEAD_PATH/powerm/powerm.sh -e
+
+mode "Gaming" {
+
+	bindsym masculine  exec xdotool click 1
+	bindsym Shift+masculine  exec xdotool click 3
+	bindsym $mod+Shift+g mode "default"
+}
+
+# resize window (you can also use the mouse for that)
+mode "Resize" {
+        bindsym h resize shrink width 10 px or 10 ppt
+        bindsym j resize grow height 10 px or 10 ppt
+        bindsym k resize shrink height 10 px or 10 ppt
+        bindsym l resize grow width 10 px or 10 ppt
+
+        bindsym Left resize shrink width 10 px or 10 ppt
+        bindsym Down resize grow height 10 px or 10 ppt
+        bindsym Up resize shrink height 10 px or 10 ppt
+        bindsym Right resize grow width 10 px or 10 ppt
+
+        # back to normal: Enter or Escape or $mod+r
+        bindsym Return mode "default"
+        bindsym Escape mode "default"
+        bindsym $mod+r mode "default"
+}
+
+bindsym $mod+r mode "Resize"
+
+#Removing window title
+new_window none
+
+#Setting window frames
+default_border pixel 0
+hide_edge_borders both
+
+#Colour defining. These are defined at the bottom of this config file and are
+#Changed by the customiz3d script. (But can also be changed manually)
+
+#Window colors
+#Type			Border		Background		Text
+client.focused		$bg-color	$bright-color		$contrast-text
+client.unfocused	$bg-color	$bg-color		$contrast-text
+client.focused_inactive	$bg-color	$bg-color		$contrast-text
+client.urgent		$bright-color	$bright-color		$contrast-text
+
+# Start i3bar to display a workspace bar (plus the system information i3status
+# finds out, if available)
+bar {
+	position top
+	mode dock
+        status_command i3blocks
+	colors {
+		statusline		$contrast-text
+		background		$bg-color
+		separator		$bg-color
+		#Where			Border		Background		Text
+		active_workspace	$contrast-text	$contrast-text		$bg-color
+		inactive_workspace	$bg-color	$bg-color		$contrast-text
+		focused_workspace	$contrast-text	$contrast-text		$bg-color
+		urgent_workspace	$bright-color	$bright-color		$contrast-text
+	}
+}
+
+# Setting keyboard layout
+exec_always setxkbmap es
+
+# Setting wallpaper
+# This file contains a wallpaper-setting command,
+# and is modified by the customiz3d script.
+exec_always sh $MEAD_PATH/.auxfiles/autowp
+
+#Setting up keybindings
+bindsym XF86Launch1 exec $MEAD_PATH/powerm/powerm.sh
+bindsym $mod+g floating toggle
+bindsym $mod+a exec bash deprebashcripts/dabscr/dab.sh
+bindsym $mod+Shift+a exec bash deprebashcripts/dabscr/dab.sh ask
+bindsym $mod+m exec bash $MEAD_PATH/drivemounter/mounter.sh -m
+bindsym $mod+Shift+m exec bash $MEAD_PATH/drivemounter/mounter.sh -u
+bindsym $mod+Control+r exec urxvt -e ranger
+bindsym $mod+o exec osu-lazer
+bindsym $mod+l exec $MEAD_PATH/lmgtfy/lmgtfy.sh
+bindsym $mod+c exec bash $MEAD_PATH/disablecam/disablecam.sh -t y
+bindsym $mod+k exec $MEAD_PATH/efloat/efloat.sh kitty
+bindsym $mod+s sticky toggle
+bindsym $mod+b exec firefox
+bindsym $mod+Shift+u exec "notify-send 'Fetching updates...' && pkill -SIGRTMIN+7 i3blocks"
+
+#Setting up top row key bindings
+bindsym XF86AudioRaiseVolume exec pamixer -i 5 && pkill -SIGRTMIN+10 i3blocks
+bindsym XF86AudioLowerVolume exec pamixer -d 5 && pkill -SIGRTMIN+10 i3blocks
+bindsym XF86AudioMute exec pamixer -t && pkill -SIGRTMIN+10 i3blocks
+bindsym XF86MonBrightnessDown exec $MEAD_PATH/brightness/chbrightness.sh - 46 -M
+bindsym XF86MonBrightnessUp exec $MEAD_PATH/brightness/chbrightness.sh + 46 -M
+bindcode 253 exec "$MEAD_PATH/brightness/chbrightness.sh -t -M"
+bindsym XF86KbdBrightnessDown exec $MEAD_PATH/brightness/chbrightness.sh - 1 -K
+bindsym XF86KbdBrightnessUp exec $MEAD_PATH/brightness/chbrightness.sh + 1 -K
+bindsym XF86TouchpadToggle exec $MEAD_PATH/touchpad/touchpad.sh
+bindsym XF86AudioPrev exec bash $MEAD_PATH/mpd/slowprev.sh && pkill -SIGRTMIN+16 i3blocks
+bindsym XF86AudioNext exec mpc -q -p 6601 next && pkill -SIGRTMIN+16 i3blocks
+bindsym XF86AudioPlay exec mpc -q -p 6601 toggle && pkill -SIGRTMIN+16 i3blocks
+bindsym Print exec $MEAD_PATH/screenshot/screenshot.sh -n
+
+#Setting up media control keybindings
+bindsym $mod+KP_Left exec bash $MEAD_PATH/mpd/slowprev.sh && pkill -SIGRTMIN+16 i3blocks
+bindsym $mod+KP_Right exec mpc -q -p 6601 next && pkill -SIGRTMIN+16 i3blocks
+bindsym $mod+KP_Begin exec mpc -q -p 6601 toggle && pkill -SIGRTMIN+16 i3blocks
+bindsym $mod+KP_Down exec mpc -q -p 6601 volume -5 && pkill -SIGRTMIN+16 i3blocks
+bindsym $mod+KP_Up exec mpc -q -p 6601 volume +5 && pkill -SIGRTMIN+16 i3blocks
+
+# Config keybindings
+bindsym $mod+space exec $MEAD_PATH/customiz3d/menu.sh
+bindsym $mod+Menu exec $MEAD_PATH/assignments/assignments.sh -s show
+bindsym $mod+Shift+Menu exec $MEAD_PATH/assignments/assignments.sh -e edit
+bindsym $mod+n bar mode toggle
+bindsym $mod+e exec $MEAD_PATH/efloat/efloat.sh $(echo "" | rofi -dmenu -p "Type command to float" -config $ROFIBARPATH)
+
+#set gaps
+gaps inner 10
+gaps outer 10
+bindsym $mod+plus gaps outer current plus 5
+bindsym $mod+minus gaps outer current minus 5
+bindsym $mod+Shift+plus gaps inner current plus 5
+bindsym $mod+Shift+minus gaps inner current minus 5
+bindsym $mod+Shift+f gaps inner current set 10; gaps outer current set 10
+bindsym $mod+f gaps inner current set 0; gaps outer current set 0
+
+# Color definition
+# DO NOT DELETE / WRITE AFTER THESE LINES
+set $bg-color #c9c9c9
+set $bright-color #eaeaea
+set $contrast-text #2c3a38

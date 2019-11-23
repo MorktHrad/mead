@@ -1,0 +1,141 @@
+full_text=|
+align=center
+
+[updates]
+command=bash $MEAD_PATH/i3blocks/updates.sh
+interval=3600
+align=left
+full_text=
+separator=true
+signal=7
+
+[mpd]
+command=bash $MEAD_PATH/i3blocks/mpd.sh
+signal=16
+interval=once
+align=left
+full_text=
+separator=true
+
+[prev]
+command=bash $MEAD_PATH/i3blocks/mediacommands/prev.sh
+interval=once
+signal=3
+full_text=
+
+[pause]
+command=bash $MEAD_PATH/i3blocks/mediacommands/pause.sh
+interval=once
+signal=3
+full_text=
+
+[next]
+command=bash $MEAD_PATH/i3blocks/mediacommands/next.sh
+interval=once
+signal=3
+full_text=
+
+[lock]
+command=bash $MEAD_PATH/i3blocks/lock.sh
+interval=once
+signal=5
+full_text=
+
+[metallum]
+command=bash $MEAD_PATH/i3blocks/metallum/mtprogress.sh
+interval=once
+signal=8
+full_text=
+
+[horario]
+command=bash $MEAD_PATH/i3blocks/horario.sh
+signal=2
+interval=60
+full_text=
+
+[camera]
+command=bash $MEAD_PATH/i3blocks/camera.sh
+interval=once
+signal=9
+full_text=
+
+[touchpad]
+command=bash $MEAD_PATH/i3blocks/touchpad.sh
+interval=once
+signal=19
+full_text=
+
+[vpn]
+command=bash $MEAD_PATH/i3blocks/vpn.sh
+interval=once
+signal=17
+full_text=
+
+[hotspot]
+command=bash $MEAD_PATH/i3blocks/hotspot.sh
+interval=once
+signal=15
+full_text=
+
+[volume]
+command=bash $MEAD_PATH/i3blocks/volume.sh
+interval=once
+signal=10
+full_text=
+
+[separator]
+
+[brightness]
+command=bash $MEAD_PATH/i3blocks/brightness.sh
+interval=once
+signal=20
+full_text=
+
+[separator]
+
+[disk]
+command=$MEAD_PATH/i3blocks/diskspace.sh
+interval=30
+signal=4
+full_text=
+
+[separator]
+
+[battery]
+command=bash $MEAD_PATH/i3blocks/battery.sh
+interval=5
+full_text=
+
+[separator]
+
+[wifi]
+command=bash $MEAD_PATH/i3blocks/wifi.sh
+interval=5
+full_text=
+
+[separator]
+
+[ethernet]
+command=bash $MEAD_PATH/i3blocks/ethernet.sh
+interval=5
+full_text=
+
+[separator]
+
+[date]
+command=bash $MEAD_PATH/i3blocks/calendar.sh d
+interval=15
+full_text=
+
+[separator]
+
+[time]
+command=bash $MEAD_PATH/i3blocks/calendar.sh t
+interval=15
+full_text=
+
+[separator]
+
+[powermenu]
+full_text="  "
+command=bash $MEAD_PATH/i3blocks/powermenu.sh

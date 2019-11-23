@@ -1,0 +1,121 @@
+/**
+ * ROFI Color theme
+ * User: MorktHrad
+ * Copyright: Dave Davenport
+ */
+
+#window {
+    background-color: @bgt;
+    border:           0;
+    padding:          50;
+}
+#mainbox {
+    border:  0;
+    padding: 0;
+}
+#message {
+    border:       2px 0px 0px ;
+    border-color: @bgt;
+    padding:      1px ;
+}
+#textbox {
+    text-color: @cro;
+}
+#listview {
+    fixed-height: 0;
+    border:       2px 0px 0px ;
+    border-color: @cro;
+    spacing:      2px ;
+    scrollbar:    false;
+    padding:      2px 0px 0px ;
+}
+#element {
+    border:  0;
+    padding: 1px ;
+}
+#element.normal.normal {
+    background-color: #00000000;
+    text-color:       @cro;
+}
+#element.normal.urgent {
+    background-color: #00000000;
+    text-color:       @cro;
+}
+#element.normal.active {
+    background-color: @cro;
+    text-color:       @bgo;
+}
+#element.selected.normal {
+    background-color: @cro;
+    text-color:       @bgo;
+}
+#element.selected.urgent {
+    background-color: @cro;
+    text-color:       @bgo;
+}
+#element.selected.active {
+    background-color: @cro;
+    text-color:       @bgo;
+}
+#element.alternate.normal {
+    background-color: #00000000;
+    text-color:       @cro;
+}
+#element.alternate.urgent {
+    background-color: #00000000;
+    text-color:       @cro;
+}
+#element.alternate.active {
+    background-color: #00000000;
+    text-color:       @cro;
+}
+#scrollbar {
+    width:        4px ;
+    border:       0;
+    handle-width: 8px ;
+    padding:      0;
+}
+#sidebar {
+    border:       2px 0px 0px ;
+    border-color: @cro;
+}
+#button.selected {
+    background-color: @cro;
+    text-color:       @bgo;
+}
+#inputbar {
+    spacing:    0;
+    text-color: @cro;
+    padding:    1px ;
+}
+#case-indicator {
+    spacing:    0;
+    text-color: @cro;
+}
+#entry {
+    spacing:    0;
+    text-color: @cro;
+}
+#prompt, button{
+    spacing:    0;
+    text-color: @cro;
+}
+#inputbar {
+    children:   [ prompt,textbox-prompt-colon,entry,case-indicator ];
+}
+#textbox-prompt-colon {
+    expand:     false;
+    str:        ":";
+    margin:     0px 0.3em 0em 0em ;
+    text-color: @cro;
+}
+
+* {
+    bgt: #c9c9c9bf;
+    brt: #eaeaeabf;
+    crt: #2c3a38bf;
+    bgo: #c9c9c9ff;
+    bro: #eaeaeaff;
+    cro: #2c3a38ff;
+    background-color: #00000000;
+    }
