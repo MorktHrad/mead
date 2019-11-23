@@ -61,13 +61,13 @@ MEAD scripts usually show some kind of feedback on the i3bar. This feedback is o
 
 This should make most scripts work as intended. However, some scripts need further explanation:
 
-##Brightness script configuration
+## Brightness script configuration
 
 This script changes the screen and keyboard (on Asus laptops) brightness.
 
 So that it works as intended, you should check if the `brgpath` points to your backlight folder, as well as the `kbdpath` points to your laptop's keyboard led's folder.
 
-##Sethotspot script configuration
+## Sethotspot script configuration
 
 This script needs to know your wifi interface name. On asus laptops, this is the 3rd entry on the `$ ip a` command output.
 
@@ -77,7 +77,7 @@ Check if your wifi interface is listed on the 3rd entry, and if it isn't, change
 - Check the number they're listed as
 - Change the `grep 3: ` part of the first script line with whichever number you get.
 
-##Wifi and Ethernet scripts for i3blocks configuration
+## Wifi and Ethernet scripts for i3blocks configuration
 
 Under the `i3blocks` folder, you'll find some scripts that output text to i3blocks.
 
@@ -86,5 +86,5 @@ Under the `i3blocks` folder, you'll find some scripts that output text to i3bloc
 - Do the same modifications to the `wifi.sh` script.
 - For the `ethernet.sh`, do the same, except for the index in which `eth0` or `enp3s0` or something similar is listed.
 
-#Usage of the scripts
+# Usage of the scripts
 WIP
